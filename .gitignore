@@ -59,6 +59,3 @@ Thumbs.db
 # Gradio
 gradio_cached_examples/
 flagged/
-
-# Local history
-hisotry.txt
